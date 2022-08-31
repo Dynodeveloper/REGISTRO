@@ -5,6 +5,8 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
 
+
+
 body{
     background-color: #F1FAFF;
     background-image: url(/images/bg1.jpg);
@@ -45,7 +47,7 @@ body{
     display: block;
     margin: auto;
     position: relative;
-    top: 100px;
+    top: 147px;
     z-index: 1;
     filter: drop-shadow(5px 5px 4px rgba(0,0,0,0.5));
     transition: all 400ms;
